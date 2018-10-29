@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{4F4579B2-A4D7-3DB0-79A1-9E3D45589605}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Server.cs">
+    <Files>
+      <File FileName="Game.Model/Players.cs" Line="27" Column="42" />
+      <File FileName="Game.Model/Move.cs" Line="28" Column="10" />
+      <File FileName="../Training/Assets/Scripts/Client.cs" Line="147" Column="15" />
+      <File FileName="../Training/Assets/Scripts/test.cs" Line="19" Column="25" />
+      <File FileName="Game.Model/EventTypes.cs" Line="23" Column="24" />
+      <File FileName="../Training/Assets/Scripts/CameraController.cs" Line="10" Column="1" />
+      <File FileName="../Training/Assets/Scripts/EnemyControl.cs" Line="7" Column="28" />
+      <File FileName="Assets/Server.cs" Line="126" Column="17" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/H2O/Training/Assets/CollideChest.cs" line="20" column="6" />
+      <Breakpoint file="/Users/H2O/Training/Assets/CollideChest.cs" line="24" column="1" />
+      <Breakpoint file="/Users/H2O/Training/Assets/HitControl.cs" line="51" column="1" />
+      <Breakpoint file="/Users/H2O/Training/TestServer/Program.cs" line="60" column="1" />
+      <Breakpoint file="/Users/H2O/Training/Assets/Scripts/Client.cs" line="166" column="1" />
+      <Breakpoint file="/Users/H2O/Training/Assets/Scripts/Client.cs" line="159" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
